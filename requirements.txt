@@ -1,7 +1,4 @@
-transformers
 streamlit
+transformers
 torch
-streamlit
-transformers
-torch 
 sentencepiece
