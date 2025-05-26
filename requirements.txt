@@ -4,3 +4,4 @@ torch
 streamlit
 transformers
 torch 
+sentencepiece
